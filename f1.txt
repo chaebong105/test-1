@@ -1,6 +1,4 @@
 # loc-git
-
-
 a
-
 b
+c
